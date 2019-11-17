@@ -30,10 +30,29 @@ header {
 /* Content */
 
 .content {
-  line-height: 2rem;
-  font-size: 1.2rem;
-  font-family: sans-serif;
+    line-height: 2rem;
+    font-size: 1.2rem;
+    font-family: sans-serif;
 }
+
+/* images | about page */
+.about-image:first-of-type {
+  padding-top: 10px;
+}
+.about-image {
+    width: 85%;
+    padding-bottom: 60px;
+}
+
+/* roster list | about page */
+
+.roster-list li{
+    border-bottom: 1px black solid;
+    letter-spacing: 2px;
+    font-size: 1.5rem;
+    padding: 3px;
+}
+
 
 /* Footer */
 
