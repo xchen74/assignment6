@@ -1,4 +1,4 @@
-<?php $pageTitle="Practice | University of Rochester Women's Soccer Club "; include "inc/header.php"; ?>
+<?php $pageTitle="Practice | University of Rochester Women's Soccer Club "; include "inc/head+nav.php"; ?>
 <main>
    <h1> Practice </h1>
    <p> Practice for most of the fall and late spring takes place in Towers Field, North Field and Fauver Stadium, which are all outdoor spaces. On late fall and early spring, practice takes place on the Georgen Athletic Field on the indoor basketball courts. This semester practice takes place on Mondays (4:40PM-5:30PM) and Thursdays (6:00PM-7:00PM). Even though not everyone who comes to practice will be part of the team, practices are a great place to socialize and develop new soccer playing techniques. No experience is required and this is why no one feels a great deal of pressure, the club makes sure to encourage and motivate each of its members. </p>

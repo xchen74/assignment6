@@ -1,4 +1,40 @@
 
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: #222;
+}
+
+
+/* Header */
+header {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('https://uofrathletics.com/images/2018/9/4/2018_Womens_Soccer_Team_Photo_WEB_.jpg?width=1600');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+
+}
+.header-caption h1 {
+    font-size: 500%;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 15px #000;
+    margin-top: 4rem;
+}
+/* Content */
+
+.content {
+  line-height: 2rem;
+  font-size: 1.2rem;
+  font-family: sans-serif;
+}
+
 /* Footer */
 
 .social a {
@@ -19,9 +55,18 @@
     color:#d5d5d5;
 }
 
-footer.title {
-    background-color: #3f3f3f;
+.social-title {
+    margin-top: 2rem;
+}
+
+.social-tag {
+    margin-top: 1.3rem;
+}
+
+.footer-notice {
+    background-color: #606060;
     color: #d5d5d5;
+    padding-top: .5rem;
 }
 
 hr.light{

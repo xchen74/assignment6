@@ -3,8 +3,9 @@
       <!--- Connect -->
 
       <div class="container-fluid padding">
+        <hr class= "light">
         <div class="row text-center padding">
-            <div class="col-xs-12 col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-6 col-md-3 social-title">
                 <h2>Connect Us:</h2>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-6 social padding">
@@ -15,14 +16,14 @@
 
                 <a href="https://www.instagram.com/urwcsoccer"><i class="fa fa-instagram"></i></a>
             </div>
-            <div class="col-sm-6 col-md-3">
-                <h3>#URWSC</h3>
+            <div class="col-sm-6 col-md-3 social-tag">
+                <p class="display-4">#URWSC</p>
             </div>
+            <hr class= "light">
         </div>
 
-        <div class="row text-center title">
-          <div class="col-12">
-            <hr class= "light">
+        <div class="row text-center">
+          <div class="col-12 footer-notice">
             <h5> Website developed by Team Berlin </h5>
           </div>
 
