@@ -1,4 +1,4 @@
-<?php $pageTitle="Contact Us | Women's Soccer Club "; include "inc/head.php"; ?>
+<?php $pageTitle="Contact Us | University of Rochester Women's Soccer Club "; include "inc/header.php"; ?>
 
 	<main>
 	   <h1> Becoming a Member </h1>

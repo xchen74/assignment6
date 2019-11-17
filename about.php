@@ -1,4 +1,4 @@
-<?php $pageTitle="About | Women's Soccer Club "; include "inc/head.php"; ?>
+<?php $pageTitle="About | University of Rochester Women's Soccer Club "; include "inc/header.php"; ?>
 
 	<main>
 	   <h1> About </h1>
