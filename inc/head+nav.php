@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="css/styles.css">
 
-    <title> <?php echo $pageTitle;?> </title>
+    <title><?php echo $pageTitle;?> University of Rochester Women's Soccer Club</title>
 
   </head>
   <body>
@@ -22,18 +22,18 @@
             </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
+            <li class="nav-item <?php echo $title1;?>">
               <a class="nav-link" href="index.php">Home
                     <span class="sr-only">(current)</span>
                   </a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item <?php echo $title2;?>">
               <a class="nav-link" href="about.php">About</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item <?php echo $title3;?>">
               <a class="nav-link" href="practice.php">Practice</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item <?php echo $title4;?>">
               <a class="nav-link" href="contact-us.php">Contact Us</a>
             </li>
           </ul>

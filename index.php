@@ -1,4 +1,7 @@
-<?php $pageTitle="University of Rochester Women's Soccer Club"; include "inc/head+nav.php"; ?>
+<?php $pageTitle=" ";
+$title1 = "active"; $title2 = " "; $title3 = " "; $title4 = " ";
+include "inc/head+nav.php";
+?>
 
 <!-- Full Page Header with Vertically Centered Content -->
 	<header>

@@ -1,6 +1,9 @@
-<?php $pageTitle="Contact Us | University of Rochester Women's Soccer Club "; include "inc/head+nav.php"; ?>
+<?php $pageTitle="Contact Us |";
+$title1 = " "; $title2 = " "; $title3 = " "; $title4 = "active";
+include "inc/head+nav.php";
+?>
 
-	<main>
+	<main class="content m-5 pt-5">
 	   <h1> Becoming a Member </h1>
 	   <p> The soccer club doesn't require try-outs for any eligible member. If you are interesed and are a current undergraduate at the University of Rochester or the Eastman School of Music please film the form below.  </p>
 	   <form>

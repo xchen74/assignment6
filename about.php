@@ -1,11 +1,14 @@
-<?php $pageTitle="About | University of Rochester Women's Soccer Club "; include "inc/head+nav.php"; ?>
+<?php $pageTitle="About |";
+$title1 = " "; $title2 = "active"; $title3 = " "; $title4 = " ";
+include "inc/head+nav.php";
+?>
 
-	<main>
+	<main class="content m-5 pt-5">
 	   <h1> About </h1>
 	   <p> The women's soccer club at the University of Rochester became an official club in 2005. There were only 11 members in the team and event though they were not many, they were enough to form a soccer team. The soccer team doesn't have a coach, so every year the roster chooses one the team members as the new captain. The captain is in charge of organizing the team, games, practice plans and deciding upon the team's roster. This past season, the team had the opportunity to face Buffalo, Niagara, Brockport, St. Bonaventure, Canisius, RIT, Fredonia and Oswego. The club is currently ran by Maddy Candela.   </p>
-	   <img src= "images/game.png" alt="game">
 	</main>
-	<img src= "images/old-roster.png" alt="old roster">
+	<img class = "about-image" src= "images/game.png" alt="game">
+	<img  class = "about-image" src= "images/old-roster.png" alt="old roster">
 	<aside>
 	   <ul>
 	      <h1> Roster </h1>
