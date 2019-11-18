@@ -34,7 +34,7 @@
               <a class="nav-link" href="practice.php">Practice</a>
             </li>
             <li class="nav-item <?php echo $title4;?>">
-              <a class="nav-link" href="contact-us.php">Contact Us</a>
+              <a class="nav-link" href="contact-us.php">Join Us</a>
             </li>
           </ul>
         </div>
