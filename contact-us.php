@@ -7,7 +7,7 @@
 					<hr>
 			</div>
 			<div class="col-12">
-					<p class="lead">The soccer club doesn't require try-outs for any eligible member. If you are interesed and are a current undergraduate at the University of Rochester or the Eastman School of Music please film the form below.</p>
+					<p class="lead">The soccer club doesn't require try-outs for any eligible member. If you are interesed and are a current undergraduate at the University of Rochester or the Eastman School of Music please fill out the form below.</p>
 			</div>
 			<div class="col-12 pl-5">
 				 <form class="be-member-form  pb-5">
