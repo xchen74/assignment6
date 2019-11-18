@@ -35,8 +35,5 @@
 
 
 
-	<main>
-	   <p>   </p>
-	</main>
 
 <?php include "inc/footer.php"; ?>
