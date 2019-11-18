@@ -2,12 +2,20 @@
 $title1 = " "; $title2 = " "; $title3 = "active"; $title4 = " ";
 include "inc/head+nav.php";
 ?>
-<main class="content m-5 pt-5">
-   <h1> Practice </h1>
-   <p> Practice for most of the fall and late spring takes place in Towers Field, North Field and Fauver Stadium, which are all outdoor spaces. On late fall and early spring, practice takes place on the Georgen Athletic Field on the indoor basketball courts. This semester practice takes place on Mondays (4:40PM-5:30PM) and Thursdays (6:00PM-7:00PM). Even though not everyone who comes to practice will be part of the team, practices are a great place to socialize and develop new soccer playing techniques. No experience is required and this is why no one feels a great deal of pressure, the club makes sure to encourage and motivate each of its members. </p>
-   <img src= "images/field.png" alt="field">
+<main class="container-fluid content content mt-5 p-5">
+   <h1 class="pl-5"> Practice </h1>
+   <div class="row">
+     <div class="col-lg-6 text-center pt-4">
+       <img class = "practice-image" src= "images/field.png" alt="field">
+     </div>
+     <div class="col-lg-6">
+          <p> Practice for most of the fall and late spring takes place in Towers Field, North Field and Fauver Stadium, which are all outdoor spaces. On late fall and early spring, practice takes place on the Georgen Athletic Field on the indoor basketball courts. This semester practice takes place on Mondays (4:40PM-5:30PM) and Thursdays (6:00PM-7:00PM). Even though not everyone who comes to practice will be part of the team, practices are a great place to socialize and develop new soccer playing techniques. No experience is required and this is why no one feels a great deal of pressure, the club makes sure to encourage and motivate each of its members.
+          </p>
+     </div>
+   </div>
+   <hr>
 </main>
-<aside>
+<aside class="content ml-5 pr-5">
    <ul>
       <h1> Practice Spaces </h1>
       <li>Towers Field: Enter campus on Joseph C. Wilson Boulevard and go around until you reach Library Road. The Towers Field is the baseball field behind Fauver Stadium. </li>
