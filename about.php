@@ -1,7 +1,4 @@
-<?php $pageTitle="About |";
-$title1 = " "; $title2 = "active"; $title3 = " "; $title4 = " ";
-include "inc/head+nav.php";
-?>
+<?php $pageTitle="About |"; $title1 = " "; $title2 = "active"; $title3 = " "; $title4 = " "; include "inc/head+nav.php";?>
 
 	<main class="content m-5 pt-5">
 	   <h1> About </h1>

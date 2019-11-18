@@ -1,7 +1,4 @@
-<?php $pageTitle="Practice |";
-$title1 = " "; $title2 = " "; $title3 = "active"; $title4 = " ";
-include "inc/head+nav.php";
-?>
+<?php $pageTitle="Practice |"; $title1 = " "; $title2 = " "; $title3 = "active"; $title4 = " "; include "inc/head+nav.php";?>
 <main class="container-fluid content content mt-5 p-5">
    <h1 class="pl-5"> Practice </h1>
    <div class="row">
