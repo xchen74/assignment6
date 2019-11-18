@@ -5,7 +5,7 @@
         <hr class= "light">
         <div class="row text-center padding">
             <div class="col-lg-3 social-title">
-                <h2>Connect Us:</h2>
+                <h2>Follow Us:</h2>
             </div>
             <div class="col-lg-6 social padding">
                 <a href="http://www.facebook.com/UrWomensClubSoccer"><i class="fa fa-facebook"></i></a>

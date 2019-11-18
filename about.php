@@ -6,7 +6,7 @@
 	</main>
 	<aside class = "container-fluid p-5">
 		<hr>
-		<h1 class="ml-4"> Roster </h1>
+		<h1 class="ml-4"> Our Roster </h1>
 		<div class="row content">
 				<div class = "col-lg-5">
 					<ol class = "roster-list">
