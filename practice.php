@@ -13,9 +13,8 @@
    <hr>
 </main>
 <aside class="content ml-5 pr-5">
-
-<h1 class="p1-3"> Practice Spaces </h1>
-   <ul>
+  <h1 class="pl-5"> Practice Spaces </h1>
+   <ul class="ml-3">
       <li>Towers Field: Enter campus on Joseph C. Wilson Boulevard and go around until you reach Library Road. The Towers Field is the baseball field behind Fauver Stadium. </li>
       <li>Fauver Stadium: Enter campus on Joseph C. Wilson Boulevard and go around until you reach Library Road. After turning onto Library Road the football stadium will be on your left.</li>
       <li>North Field: The North Field is located along Joseph C. Wilson Boulevard. Parking is located in the Wilson North Lot which is off of Hill Court Road.</li>

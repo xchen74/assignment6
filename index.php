@@ -11,14 +11,11 @@
 	    </div>
 	  </div>
 	</header>
-
 	<div class="container-fluid">
 		<div class="row content">
-
 		  <main class="col-lg-8 p-5">
 		    <p>The University of Rochester's Women Soccer Team is a club completely ran by students. It currently has 24 people on the roster but many more show to practice as it is a great opportunity to socialize and make some excercies. The team meets two times a week, on Mondays and Thursdays and during most of fall, practice is either held at Fauver Stadium, Towers or the north Field. During late fall and most of spring, practice takes place indoors at the Georgen Athletic Field. Any undergraduate, faculty and staff member of the University of Rochester and the Eastman School of Music is welcome to join the team and no previous experience or try-outs is required.</p>
 		  </main>
-
 			<aside class="col-lg-4 p-4 pt-5">
 				<h3 class="pl-3">Executive Board</h3>
 				 <ul>
@@ -32,8 +29,5 @@
 			</aside>
 		</div>
 	</div>
-
-
-
-
+	
 <?php include "inc/footer.php"; ?>
