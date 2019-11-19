@@ -9,19 +9,25 @@
 			<div class="col-12">
 					<p class="lead">The soccer club doesn't require try-outs for any eligible member. If you are interesed and are a current undergraduate at the University of Rochester or the Eastman School of Music please fill out the form below.</p>
 			</div>
-		
+
 			<div id="form-wrapper" class="col-12 pl-5">
 				 <form class="be-member-form  pb-5" method="post" action="#" id="subscription-form">
-					 <label for="name"> Name:</label>
-					 <input type="text" placeholder="Full Name" name="name" id="name"><br>
-					 <label for="email">Email:</label>
-					 <input type="text" placeholder="Email address" name="email" id="email"><br>
-					 <label for="years">Years Playing:</label>
-					 <input type="text" placeholder="Years Playing" name="years" id="years"><br>
-					 <input type="submit" name="submit" value="Send">
+					 <div>
+						 <label for="name"> Name:</label>
+						 <input type="text" placeholder="Full Name" name="name" id="name">
+					 </div>
+					 <div>
+						 <label for="email">Email:</label>
+						 <input type="text" placeholder="Email address" name="email" id="email">
+				 	 </div>
+						<div>
+						 <label for="years" id="yearslabel">Years Playing:</label>
+						 <input type="text" placeholder="Years Playing" name="years" id="years">
+				   </div>
+					 <input type="submit" name="submit" value="Send" id="submit">
 				</form>
 			</div>
-			
+
 		</div>
 	</main>
 

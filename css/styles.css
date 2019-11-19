@@ -66,7 +66,7 @@ header {
     padding-top: 2rem;
   }
 
-  .be-member-form > input:last-of-type {
+  #submit {
     position: relative;
     left: 35px;
   }
@@ -75,31 +75,32 @@ header {
     left: -2.5em;
   }
 }
-.be-member-form > * {
+.be-member-form div > *, #submit {
   margin-top: 6px;
 }
 
-.be-member-form > input {
+.be-member-form div > input, #submit {
   text-align: center;
   border-radius: 10px;
   border-style: solid;
   border-color: silver;
 }
 
-#years, .be-member-form > label:last-of-type  {
+#years, #yearslabel  {
   position: relative;
   left: -1.8em;
 }
-.be-member-form > input:last-of-type:hover {
+#submit {
+
+}
+#submit:hover {
   background-color: blue;
   color: white;
 }
-.be-member-form > input:hover {
+.be-member-form div > input:hover {
   opacity: 0.7;
 }
-.be-member-form > input:last-of-type {
-  opacity: 1.0;
-}
+
 /* Footer */
 
 .social a {
