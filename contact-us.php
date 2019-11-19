@@ -23,21 +23,6 @@
 			</div>
 			
 		</div>
-		<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-    <script>
-    $("#subscription-form").submit(function(e) {
-      var formData = $("#subscription-form").serialize();
-      $.ajax({
-        type: 'POST',
-        url: "new.php",
-        data: formData,
-        success: function(data){
-          $("#form-wrapper").html("Thank you for subscribing!");
-        }
-      });
-      e.preventDefault();
-    });
-    </script>
 	</main>
 
 	<?php include "inc/footer.php"; ?>
