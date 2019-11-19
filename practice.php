@@ -14,7 +14,7 @@
 </main>
 <aside class="content ml-5 pr-5">
 
-<h1> Practice Spaces </h1>
+<h1 class="p1-3"> Practice Spaces </h1>
    <ul>
       <li>Towers Field: Enter campus on Joseph C. Wilson Boulevard and go around until you reach Library Road. The Towers Field is the baseball field behind Fauver Stadium. </li>
       <li>Fauver Stadium: Enter campus on Joseph C. Wilson Boulevard and go around until you reach Library Road. After turning onto Library Road the football stadium will be on your left.</li>
