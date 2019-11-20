@@ -39,7 +39,7 @@
         url: "new.php",
         data: formData,
         success: function(data){
-          $("#form-wrapper").html("Thank you for subscribing!");
+          $("#form-wrapper").html("Thank you for your interest in soccer club!");
         }
       });
       e.preventDefault();
