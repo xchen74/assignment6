@@ -14,15 +14,15 @@
 				 <form class="be-member-form  pb-5" method="post" action="#" id="subscription-form">
 					 <div>
 						 <label for="name"> Name:</label>
-						 <input type="text" placeholder="Full Name" name="name" id="name">
+						 <input type="text" name="name" id="name">
 					 </div>
 					 <div>
 						 <label for="email">Email:</label>
-						 <input type="text" placeholder="Email address" name="email" id="email">
+						 <input type="text" name="email" id="email">
 				 	 </div>
 						<div>
 						 <label for="years" id="yearslabel">Years Playing:</label>
-						 <input type="text" placeholder="Years Playing" name="years" id="years">
+						 <input type="number" name="years" id="years">
 				   </div>
 					 <input type="submit" name="submit" value="Send" id="submit">
 				</form>
